@@ -1,8 +1,5 @@
 ## TP4 : Programmation GPU en CUDA
 
-Dans L'exercice 1 : 
-1.4 Allouez la mémoire hôte pour le vecteur à l'aide de **cudaHostAlloc** au lieu de malloc
-
 ### Objectifs du TP :
 ---------------------
 * Comparez les temps de copie mémoire paginée vs. mémoire épinglée.
